@@ -1,0 +1,38 @@
+a{
+    text-decoration: none;
+}
+
+.links{
+    color: #333333;
+}
+
+#topNavBar {
+    background-color: white;
+    width: 100%;
+    height: 10vh;
+    position: fixed;
+    margin: 0;
+    z-index: 2;
+}
+
+#topNavBar-logo {
+    height: 3vw;
+    position: relative;
+    top: 2vh;
+    left: 2vw;
+}
+
+#topNavBar-links {
+    font-size: 1.5vw;
+    margin-right: 2vw;
+    position: relative;
+    left: 70vw;
+    top: -3vh;
+}
+
+#topNavBar-links a {
+    display: inline-block;
+    margin-right: 2vw;
+    font-family: Ubuntu;
+    font-weight: 15vw;
+}

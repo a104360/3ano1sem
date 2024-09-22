@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Camada_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1125 500" style="enable-background:new 0 0 1125 500;" xml:space="preserve">
+<style type="text/css">
+	
+		.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#F0F0F0;stroke:#F0F0F0;stroke-width:0.5229;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:2.0916;}
+	.st1{font-family:'Verdana-Bold';}
+	.st2{font-size:6.9771px;}
+	.st3{fill:#808080;}
+	.st4{font-family:'Verdana';}
+	.st5{fill:none;stroke:#FFEBC6;stroke-width:0.5229;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:2.0916;}
+	.st6{fill-rule:evenodd;clip-rule:evenodd;fill:#FFEBC6;}
+</style>
+<g transform="matrix(0.697188,0,0,0.697188,0.348594,-17.0811)">
+	<rect x="-0.6" y="322.6" class="st0" width="206.4" height="122"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,67.7743,164.885)">
+	<text transform="matrix(1.4343 0 0 1.4343 -2.7929 85.956)" class="st1 st2">M1</text>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,2.9685,180.223)">
+	<text transform="matrix(1.4343 0 0 1.4343 2.9517 84.5957)" class="st3 st4 st2">P1 x0; </text>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,2.9685,180.223)">
+	<text transform="matrix(1.4343 0 0 1.4343 2.9517 96.7918)" class="st4 st2">send 48.82% of maby13 to inventory</text>
+	<text transform="matrix(1.4343 0 0 1.4343 2.9517 108.9892)" class="st4 st2">send 20.53% of maby13 to M12</text>
+	<text transform="matrix(1.4343 0 0 1.4343 2.9517 121.1853)" class="st4 st2">send 30.64% of maby13 to M13</text>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,209.505,35.208)">
+	<rect x="-19.1" y="317.9" class="st0" width="206.4" height="122"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,274.267,217.174)">
+	<text transform="matrix(1.4343 0 0 1.4343 -21.0996 81.3211)" class="st1 st2">M12</text>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,212.125,232.512)">
+	<text transform="matrix(1.4343 0 0 1.4343 -15.59 79.9595)" class="st3 st4 st2">P12_0 x0; P12_1 x0; </text>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,212.125,232.512)">
+	<text transform="matrix(1.4343 0 0 1.4343 -15.59 92.1569)" class="st4 st2">send 26.60% of maby3 to inventory</text>
+	<text transform="matrix(1.4343 0 0 1.4343 -15.59 104.3544)" class="st4 st2">send 73.39% of maby3 to M3</text>
+	<text transform="matrix(1.4343 0 0 1.4343 -15.59 116.5504)" class="st4 st2">send 46.79% of maby14 to inventory</text>
+	<text transform="matrix(1.4343 0 0 1.4343 -15.59 128.7464)" class="st4 st2">send 53.20% of maby14 to M14</text>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,209.505,-69.3703)">
+	<rect x="-19.1" y="327.2" class="st0" width="206.4" height="122"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,274.267,112.596)">
+	<text transform="matrix(1.4343 0 0 1.4343 -21.0996 90.5916)" class="st1 st2">M13</text>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,212.125,127.934)">
+	<text transform="matrix(1.4343 0 0 1.4343 -15.59 89.232)" class="st3 st4 st2">P12_0 x0; P12_1 x0; </text>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,212.125,127.934)">
+	<text transform="matrix(1.4343 0 0 1.4343 -15.59 101.4281)" class="st4 st2">send 87.32% of maby3 to inventory</text>
+	<text transform="matrix(1.4343 0 0 1.4343 -15.59 113.6241)" class="st4 st2">send 12.67% of maby3 to M3</text>
+	<text transform="matrix(1.4343 0 0 1.4343 -15.59 125.8215)" class="st4 st2">send 84.94% of maby14 to inventory</text>
+	<text transform="matrix(1.4343 0 0 1.4343 -15.59 138.0176)" class="st4 st2">send 15.05% of maby14 to M14</text>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,418.662,35.208)">
+	<rect x="-37.7" y="317.9" class="st0" width="206.4" height="122"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,483.424,217.174)">
+	<text transform="matrix(1.4343 0 0 1.4343 -39.6405 81.3211)" class="st1 st2">M14</text>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,423.716,232.512)">
+	<text transform="matrix(1.4343 0 0 1.4343 -34.3472 79.9595)" class="st3 st4 st2">P14 x0; </text>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,423.716,232.512)">
+	<text transform="matrix(1.4343 0 0 1.4343 -34.3472 92.1569)" class="st4 st2">send 49.21% of maby2 to inventory</text>
+	<text transform="matrix(1.4343 0 0 1.4343 -34.3472 104.3544)" class="st4 st2">send 50.78% of maby2 to M2</text>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,418.662,-69.3703)">
+	<rect x="-37.7" y="327.2" class="st0" width="206.4" height="122"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,486.087,112.596)">
+	<text transform="matrix(1.4343 0 0 1.4343 -39.8771 90.5916)" class="st1 st2">M3</text>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,423.716,127.934)">
+	<text transform="matrix(1.4343 0 0 1.4343 -34.3472 89.232)" class="st3 st4 st2">P3_0 x0; P3_1 x0; </text>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,423.716,127.934)">
+	<text transform="matrix(1.4343 0 0 1.4343 -34.3472 101.4281)" class="st4 st2">send 57.27% of maby6 to inventory</text>
+	<text transform="matrix(1.4343 0 0 1.4343 -34.3472 113.6241)" class="st4 st2">send 42.72% of maby6 to M6</text>
+	<text transform="matrix(1.4343 0 0 1.4343 -34.3472 125.8215)" class="st4 st2">send 55.86% of maby7 to inventory</text>
+	<text transform="matrix(1.4343 0 0 1.4343 -34.3472 138.0176)" class="st4 st2">send 44.13% of maby7 to M7</text>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,627.818,87.4972)">
+	<rect x="-56.2" y="313.3" class="st0" width="206.4" height="122"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,695.244,269.463)">
+	<text transform="matrix(1.4343 0 0 1.4343 -58.4181 76.6848)" class="st1 st2">M2</text>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,632.873,284.801)">
+	<text transform="matrix(1.4343 0 0 1.4343 -52.891 75.3246)" class="st3 st4 st2">P2_0 x0; P2_1 x0; P2_2 x0; </text>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,632.873,284.801)">
+	<text transform="matrix(1.4343 0 0 1.4343 -52.891 87.522)" class="st4 st2">send 16.05% of maby5 to inventory</text>
+	<text transform="matrix(1.4343 0 0 1.4343 -52.891 99.7181)" class="st4 st2">send 83.94% of maby5 to M5</text>
+	<text transform="matrix(1.4343 0 0 1.4343 -52.891 111.9155)" class="st4 st2">send 65.67% of maby4 to inventory</text>
+	<text transform="matrix(1.4343 0 0 1.4343 -52.891 124.1115)" class="st4 st2">send 34.32% of maby4 to M4</text>
+	<text transform="matrix(1.4343 0 0 1.4343 -52.891 136.3076)" class="st4 st2">send 75.20% of maby6 to inventory</text>
+	<text transform="matrix(1.4343 0 0 1.4343 -52.891 148.505)" class="st4 st2">send 24.79% of maby6 to M6</text>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,627.818,-17.0811)">
+	<rect x="-56.2" y="322.6" class="st0" width="206.4" height="122"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,695.244,164.885)">
+	<text transform="matrix(1.4343 0 0 1.4343 -58.4181 85.956)" class="st1 st2">M6</text>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,632.873,180.223)">
+	<text transform="matrix(1.4343 0 0 1.4343 -52.891 84.5957)" class="st3 st4 st2">P6 x0; </text>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,632.873,180.223)">
+	<text transform="matrix(1.4343 0 0 1.4343 -52.891 96.7918)" class="st4 st2">send 77.61% of maby9 to inventory</text>
+	<text transform="matrix(1.4343 0 0 1.4343 -52.891 108.9892)" class="st4 st2">send 22.38% of maby9 to M9</text>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,627.818,-121.659)">
+	<rect x="-56.2" y="331.8" class="st0" width="206.4" height="122"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,695.244,60.3068)">
+	<text transform="matrix(1.4343 0 0 1.4343 -58.4181 95.2282)" class="st1 st2">M7</text>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,630.438,75.6449)">
+	<text transform="matrix(1.4343 0 0 1.4343 -52.6746 93.8678)" class="st3 st4 st2">P7 x0; </text>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,630.438,75.6449)">
+	<text transform="matrix(1.4343 0 0 1.4343 -52.6746 106.0638)" class="st4 st2">send 66.48% of maby10 to inventory</text>
+	<text transform="matrix(1.4343 0 0 1.4343 -52.6746 118.2612)" class="st4 st2">send 33.51% of maby10 to M10</text>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,836.975,139.786)">
+	<rect x="-74.7" y="308.7" class="st0" width="206.4" height="122"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,904.4,321.752)">
+	<text transform="matrix(1.4343 0 0 1.4343 -76.959 72.0499)" class="st1 st2">M9</text>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,839.595,337.091)">
+	<text transform="matrix(1.4343 0 0 1.4343 -71.2156 70.6897)" class="st3 st4 st2">P9 x0; </text>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,839.595,337.091)">
+	<text transform="matrix(1.4343 0 0 1.4343 -71.2156 82.8871)" class="st4 st2">send 43.95% of maby11 to inventory</text>
+	<text transform="matrix(1.4343 0 0 1.4343 -71.2156 95.0832)" class="st4 st2">send 34.99% of maby11 to M11</text>
+	<text transform="matrix(1.4343 0 0 1.4343 -71.2156 107.2792)" class="st4 st2">send 21.05% of maby11 to M15</text>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,836.975,35.208)">
+	<rect x="-74.7" y="317.9" class="st0" width="206.4" height="122"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,901.737,217.174)">
+	<text transform="matrix(1.4343 0 0 1.4343 -76.7252 81.3211)" class="st1 st2">M10</text>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,839.595,232.512)">
+	<text transform="matrix(1.4343 0 0 1.4343 -71.2156 79.9595)" class="st3 st4 st2">P10 x0; </text>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,839.595,232.512)">
+	<text transform="matrix(1.4343 0 0 1.4343 -71.2156 92.1569)" class="st4 st2">send 28.14% of maby11 to inventory</text>
+	<text transform="matrix(1.4343 0 0 1.4343 -71.2156 104.3544)" class="st4 st2">send 30.96% of maby11 to M11</text>
+	<text transform="matrix(1.4343 0 0 1.4343 -71.2156 116.5504)" class="st4 st2">send 40.88% of maby11 to M15</text>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,836.975,-69.3703)">
+	<rect x="-74.7" y="327.2" class="st0" width="206.4" height="122"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,904.4,112.596)">
+	<text transform="matrix(1.4343 0 0 1.4343 -76.959 90.5916)" class="st1 st2">M4</text>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,842.029,127.934)">
+	<text transform="matrix(1.4343 0 0 1.4343 -71.4319 89.232)" class="st3 st4 st2">P4 x0; </text>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,842.029,127.934)">
+	<text transform="matrix(1.4343 0 0 1.4343 -71.4319 101.4281)" class="st4 st2">send 46.15% of maby8 to inventory</text>
+	<text transform="matrix(1.4343 0 0 1.4343 -71.4319 113.6241)" class="st4 st2">send 53.84% of maby8 to M8</text>
+</g>
+<polyline class="st0" points="928.8,60.6 928.8,145.7 784.9,145.7 784.9,60.6 "/>
+<text transform="matrix(1 0 0 1 792.2275 109.0376)" class="st4 st2">send 57.01% of maby9 to M9</text>
+<g transform="matrix(0.697188,0,0,0.697188,1046.13,87.4972)">
+	<rect x="-93.3" y="313.3" class="st0" width="206.4" height="122"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,1113.56,269.463)">
+	<text transform="matrix(1.4343 0 0 1.4343 -95.5029 76.6848)" class="st1 st2">M8</text>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,1048.75,284.801)">
+	<text transform="matrix(1.4343 0 0 1.4343 -89.7579 75.3246)" class="st3 st4 st2">P8 x0; </text>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,1048.75,284.801)">
+	<text transform="matrix(1.4343 0 0 1.4343 -89.7579 87.522)" class="st4 st2">send 34.46% of maby11 to inventory</text>
+	<text transform="matrix(1.4343 0 0 1.4343 -89.7579 99.7181)" class="st4 st2">send 39.89% of maby11 to M11</text>
+	<text transform="matrix(1.4343 0 0 1.4343 -89.7579 111.9155)" class="st4 st2">send 25.63% of maby11 to M15</text>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,1046.13,-17.0811)">
+	<rect x="-93.3" y="322.6" class="st0" width="206.4" height="122"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,1110.89,164.885)">
+	<text transform="matrix(1.4343 0 0 1.4343 -95.266 85.956)" class="st1 st2">M11</text>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,1105.65,180.223)">
+	<text transform="matrix(1.4343 0 0 1.4343 -94.7999 84.5957)" class="st3 st4 st2">P11 x0; </text>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,1046.13,-121.659)">
+	<rect x="-93.3" y="331.8" class="st0" width="206.4" height="122"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,1110.89,60.3068)">
+	<text transform="matrix(1.4343 0 0 1.4343 -95.266 95.2282)" class="st1 st2">M15</text>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,1105.65,75.6449)">
+	<text transform="matrix(1.4343 0 0 1.4343 -94.7999 93.8678)" class="st3 st4 st2">P11 x0; </text>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,0.348594,-62.3984)">
+	<line vector-effect="none" class="st5" x1="205.8" y1="448.5" x2="280.9" y2="518.9"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,0.348594,-62.3984)">
+	<path vector-effect="none" class="st6" d="M280.9,518.9l-3.6-7.2l-3.9,4.1L280.9,518.9"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,0.348594,-62.3984)">
+	<line vector-effect="none" class="st5" x1="205.8" y1="448.5" x2="280.9" y2="378.2"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,0.348594,-62.3984)">
+	<path vector-effect="none" class="st6" d="M280.9,378.2l-7.4,3.1l3.9,4.1L280.9,378.2"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,0.348594,-62.3984)">
+	<line vector-effect="none" class="st5" x1="487.3" y1="518.9" x2="562.3" y2="378.2"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,0.348594,-62.3984)">
+	<path vector-effect="none" class="st6" d="M562.3,378.2l-6,5.3l5,2.6L562.3,378.2"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,0.348594,-62.3984)">
+	<line vector-effect="none" class="st5" x1="487.3" y1="518.9" x2="562.3" y2="518.9"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,0.348594,-62.3984)">
+	<path vector-effect="none" class="st6" d="M562.3,518.9l-7.5-2.8v5.6L562.3,518.9"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,0.348594,-62.3984)">
+	<line vector-effect="none" class="st5" x1="487.3" y1="378.2" x2="562.3" y2="378.2"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,0.348594,-62.3984)">
+	<path vector-effect="none" class="st6" d="M562.3,378.2l-7.5-2.8v5.6L562.3,378.2"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,0.348594,-62.3984)">
+	<line vector-effect="none" class="st5" x1="487.3" y1="378.2" x2="562.3" y2="518.9"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,0.348594,-62.3984)">
+	<path vector-effect="none" class="st6" d="M562.3,518.9l-1-7.9l-5,2.6L562.3,518.9"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,0.348594,-62.3984)">
+	<line vector-effect="none" class="st5" x1="768.8" y1="518.9" x2="843.8" y2="589.3"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,0.348594,-62.3984)">
+	<path vector-effect="none" class="st6" d="M843.8,589.3l-3.6-7.2l-3.9,4.1L843.8,589.3"/>
+</g>
+<line vector-effect="none" class="st5" x1="732.5" y1="348.4" x2="784.9" y2="103.2"/>
+<path vector-effect="none" class="st6" d="M784.9,103.2l-3,4.7l3.8,0.8L784.9,103.2"/>
+<g transform="matrix(0.697188,0,0,0.697188,0.348594,-62.3984)">
+	<line vector-effect="none" class="st5" x1="1050.2" y1="589.3" x2="1125.3" y2="378.2"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,0.348594,-62.3984)">
+	<path vector-effect="none" class="st6" d="M1125.3,378.2l-5.2,6.1l5.3,1.9L1125.3,378.2"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,0.348594,-62.3984)">
+	<line vector-effect="none" class="st5" x1="1050.2" y1="589.3" x2="843.8" y2="448.5"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,0.348594,-62.3984)">
+	<path vector-effect="none" class="st6" d="M843.8,448.5l4.6,6.6l3.2-4.7L843.8,448.5"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,0.348594,-62.3984)">
+	<line vector-effect="none" class="st5" x1="768.8" y1="378.2" x2="843.8" y2="448.5"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,0.348594,-62.3984)">
+	<path vector-effect="none" class="st6" d="M843.8,448.5l-3.6-7.2l-3.9,4.1L843.8,448.5"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,0.348594,-62.3984)">
+	<line vector-effect="none" class="st5" x1="768.8" y1="378.2" x2="843.8" y2="307.8"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,0.348594,-62.3984)">
+	<path vector-effect="none" class="st6" d="M843.8,307.8l-7.4,3.1l3.9,4.1L843.8,307.8"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,0.348594,-62.3984)">
+	<line vector-effect="none" class="st5" x1="1613.1" y1="589.3" x2="1406.7" y2="448.5"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,0.348594,-62.3984)">
+	<path vector-effect="none" class="st6" d="M1406.7,448.5l4.6,6.6l3.2-4.7L1406.7,448.5"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,0.348594,-62.3984)">
+	<line vector-effect="none" class="st5" x1="1613.1" y1="589.3" x2="1406.7" y2="307.8"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,0.348594,-62.3984)">
+	<path vector-effect="none" class="st6" d="M1406.7,307.8l2.2,7.7l4.5-3.3L1406.7,307.8"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,0.348594,-62.3984)">
+	<line vector-effect="none" class="st5" x1="1331.7" y1="659.6" x2="1406.7" y2="448.5"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,0.348594,-62.3984)">
+	<path vector-effect="none" class="st6" d="M1406.7,448.5l-5.2,6.1l5.3,1.9L1406.7,448.5"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,0.348594,-62.3984)">
+	<line vector-effect="none" class="st5" x1="1331.7" y1="659.6" x2="1406.7" y2="307.8"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,0.348594,-62.3984)">
+	<path vector-effect="none" class="st6" d="M1406.7,307.8l-4.3,6.8l5.5,1.2L1406.7,307.8"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,0.348594,-62.3984)">
+	<line vector-effect="none" class="st5" x1="1331.7" y1="518.9" x2="1406.7" y2="448.5"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,0.348594,-62.3984)">
+	<path vector-effect="none" class="st6" d="M1406.7,448.5l-7.4,3.1l3.9,4.1L1406.7,448.5"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,0.348594,-62.3984)">
+	<line vector-effect="none" class="st5" x1="1331.7" y1="518.9" x2="1406.7" y2="307.8"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,0.348594,-62.3984)">
+	<path vector-effect="none" class="st6" d="M1406.7,307.8l-5.2,6.1l5.3,1.9L1406.7,307.8"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,0.348594,-62.3984)">
+	<line vector-effect="none" class="st5" x1="1050.2" y1="448.5" x2="1125.3" y2="659.6"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,0.348594,-62.3984)">
+	<path vector-effect="none" class="st6" d="M1125.3,659.6l0.1-8l-5.3,1.9L1125.3,659.6"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,0.348594,-62.3984)">
+	<line vector-effect="none" class="st5" x1="1050.2" y1="307.8" x2="1125.3" y2="518.9"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,0.348594,-62.3984)">
+	<path vector-effect="none" class="st6" d="M1125.3,518.9l0.1-8l-5.3,1.9L1125.3,518.9"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,0.348594,-62.3984)">
+	<line vector-effect="none" class="st5" x1="1331.7" y1="378.2" x2="1406.7" y2="589.3"/>
+</g>
+<g transform="matrix(0.697188,0,0,0.697188,0.348594,-62.3984)">
+	<path vector-effect="none" class="st6" d="M1406.7,589.3l0.1-8l-5.3,1.9L1406.7,589.3"/>
+</g>
+<line vector-effect="none" class="st5" x1="928.8" y1="103.2" x2="784.9" y2="397.5"/>
+<g transform="matrix(0.697188,0,0,0.697188,0.348594,-62.3984)">
+	<path vector-effect="none" class="st6" d="M1125.3,659.6l5.8-5.5l-5.1-2.5L1125.3,659.6"/>
+</g>
+</svg>
