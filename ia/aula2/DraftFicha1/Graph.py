@@ -147,7 +147,10 @@ class Graph:
         q = deque([start])
 
         # The shortest paths to each node are stored in a dictionary
-        path = {start:[start]}
+        path = {start:([start],0)}
+        print(path)
+
+        cost = 0
 
         # While every node was not visited
         while q:
@@ -166,23 +169,20 @@ class Graph:
                     q.append(adjacent)
 
                     # Add the path to the dictionary
-                    path[adjacent] = path[node] + [adjacent]
+                    path[adjacent] = path[node] + ([adjacent],cost)
 
 
                     # If the node is the end/goal
                     if adjacent == end:
                         #return the path for the node
-                        return path[adjacent]
-
-        """for value in self.m_graph:
-            print(value)
-            for node in value:
-                if node == end:
-                    return path
-                if node not in visited:
-                    visited.add(node)
-                    continue"""
-
+                        total = 0
+                        # For every entrie on the values of path (['something'],int)
+                        for a in path[adjacent]:
+                            # If the entry is an int
+                            if a.__class__ == int:
+                                # Add it to the total amount
+                                total += a
+                        return (path[adjacent],total)
                     
 
     ####################

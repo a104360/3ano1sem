@@ -1,0 +1,80 @@
+html{
+    background-image: url("../images/liquid-cheese.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+h1{
+    font-size: 3vw;
+    max-width: 90vw;
+}
+
+span{
+    font-size: 2vw;
+}
+
+.left1{
+    position: relative;
+    top: 20vh;
+    left: 5vw;
+}
+
+.right1{
+    position: relative;
+    top: 30vh;
+    text-align: right;
+}
+
+.left2{
+    position: relative;
+    top: 50vh;
+}
+
+.right2{
+    position: relative;
+    top: 60vh;
+    text-align: right;
+}
+
+#span1{
+    display: flex;
+    max-width: 67vw;
+    flex-wrap: nowrap;
+}
+
+#title2{
+    left: 4vw;
+}
+
+#span2{
+    display: flex;
+    max-width: 67vw;
+    flex-wrap: nowrap;
+    left: 27vw;
+}
+
+#title3{
+    left: 5vw;
+}
+
+#span3{
+    display: flex;
+    max-width: 67vw;
+    flex-wrap: nowrap;
+    left: 5vw;
+}
+
+#title4{
+    left: 4vw;
+}
+
+#span4{
+    display: flex;
+    max-width: 67vw;
+    flex-wrap: nowrap;
+    left: 27vw;
+    padding-bottom: 20vh;
+}

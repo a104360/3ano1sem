@@ -1,6 +1,8 @@
 * {
     margin: 0;
-    max-height: 100%;
+    font-family: ubuntu,sans-serif;
+    scroll-behavior: smooth;
+    box-sizing: border-box;
 }
 
 body {
