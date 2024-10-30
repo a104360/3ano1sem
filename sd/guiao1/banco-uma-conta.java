@@ -14,6 +14,7 @@ class Bank {
     }
 
     boolean deposit(int value) {
+
       balance += value;
       return true;
     }

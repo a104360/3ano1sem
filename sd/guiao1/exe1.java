@@ -12,7 +12,7 @@ class Increment implements Runnable {
 
 public class exe1{
     public static void main(String[] args) throws InterruptedException{
-        int size = Integer.parseInt(args[0]);
+        int size = 10;
         Thread[] t = new Thread[size];
         for(int i = 0;i < size;i++){
             t[i] = new Thread(new Increment());

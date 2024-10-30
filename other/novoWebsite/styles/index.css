@@ -13,7 +13,7 @@
 
     filter: blur(5px);
     height: 100vh;
-    width: 100vw;
+    width: 100%;
 }
 
 #mainLogo {
@@ -61,39 +61,35 @@
     font-family: ubuntu,sans-serif;
 }
 
-
-.header1{
-    color: white;
-    position: relative;
-    font-family: ubuntu,sans-serif;
-}
-
-/* Portrait smartphone (320px) */
-@media only screen and (max-device-width: 320px){
-    /* Responsive styles for this breakpoint */
+/* Portrait smartphone (320px) 
+@media (max-device-width: 320px){
+    /* Responsive styles for this breakpoint 
 
     #home{
         height: 220vh;
         width: 218vw;
+        background-position: -300vw 2vh;
     }
     #mainLogo {
         position: absolute;
         top: 20vh;
-        left: 10vw;
+        left: 8vw;
         /*position: relative;
         top: -77vh;
         left: 13vh;*/
-        width: 50vw;
+
+    /*    width: 200vw;
     }
     
     #phrase {
         position: absolute;
-        top: 55vh;
+        top: 70vh;
         left: 10vw;
         /*position: relative;
         top: -50vh;
         left: 10vw;*/
-        font-size: 3vw;
+        /*
+        font-size: 20vw;
         font-family: ubuntu, sans-serif;
         font-weight: bold;
         color: #2f93b3;
@@ -101,8 +97,8 @@
     
     #iconsNav{
         position: absolute;
-        top: 79vh;
-        left: -4vw;
+        top: 170vh;
+        left: 10vw;
         text-align: center;
         
     }
@@ -112,36 +108,32 @@
     }
     
     .icons{
-        width: 6vw;
+        width: 30vw;
     }
     
   }
 
-@media only screen and (min-device-width: 321px) and (max-device-width: 479px){
-    /* Responsive styles for this breakpoint */
+@media (min-device-width: 321px) and (max-device-width: 479px){
+
+    /* Responsive styles for this breakpoint 
 
     #home{
-        height: 179vh;
-        width: 179vw;
+        height: 198vh;
+        width: 197vw;
+        background-position: -30vw 2vh;
     }
     #mainLogo {
         position: absolute;
         top: 20vh;
         left: 10vw;
-        /*position: relative;
-        top: -77vh;
-        left: 13vh;*/
-        width: 50vw;
+        width: 130vw;
     }
     
     #phrase {
         position: absolute;
         top: 55vh;
         left: 10vw;
-        /*position: relative;
-        top: -50vh;
-        left: 10vw;*/
-        font-size: 3vw;
+        font-size: 17vw;
         font-family: ubuntu, sans-serif;
         font-weight: bold;
         color: #2f93b3;
@@ -149,10 +141,9 @@
     
     #iconsNav{
         position: absolute;
-        top: 79vh;
-        left: -4vw;
+        top: 140vh;
+        left: 12vw;
         text-align: center;
-        
     }
     
     #iconsNav td{
@@ -160,40 +151,35 @@
     }
     
     .icons{
-        width: 6vw;
+        width: 20vw;
     }
     
   }
 
 
   
-  /* Landscape smartphone (480px) */
-  @media only screen and (min-device-width: 480px) and (max-device-width: 768px){
-    /* Responsive styles for this breakpoint */
+  /* Landscape smartphone (480px) 
+  @media (min-device-width: 480px) and (max-device-width: 768px){
+    /* Responsive styles for this breakpoint 
     
     #home{
         height: 140vh;
         width: 139vw;
+        background-position: -30vw 2vh;
     }
 
     #mainLogo {
         position: absolute;
         top: 20vh;
         left: 10vw;
-        /*position: relative;
-        top: -77vh;
-        left: 13vh;*/
-        width: 50vw;
+        width: 80vw;
     }
     
     #phrase {
         position: absolute;
-        top: 55vh;
-        left: 10vw;
-        /*position: relative;
-        top: -50vh;
-        left: 10vw;*/
-        font-size: 3vw;
+        top: 70vh;
+        left: 20vw;
+        font-size: 6vw;
         font-family: ubuntu, sans-serif;
         font-weight: bold;
         color: #2f93b3;
@@ -201,8 +187,9 @@
     
     #iconsNav{
         position: absolute;
-        top: 79vh;
-        left: -4vw;
+        scale: 106%;
+        top: 110vh;
+        left: 2vw;
         text-align: center;
         
     }
@@ -212,14 +199,14 @@
     }
     
     .icons{
-        width: 6vw;
+        width: 10vw;
     }
-    
+
   }
   
-  /* Portrait tablet (760px) */
-  @media only screen and (min-device-width: 760px) and (max-device-width:1023px){
-    /* Responsive styles for this breakpoint */
+  /* Portrait tablet (760px) 
+  @media (min-device-width: 760px) and (max-device-width:1023px){
+    /* Responsive styles for this breakpoint 
     #home{
         height: 110vh;
         width: 106vw;
@@ -229,9 +216,6 @@
         position: absolute;
         top: 20vh;
         left: 10vw;
-        /*position: relative;
-        top: -77vh;
-        left: 13vh;*/
         width: 50vw;
     }
     
@@ -239,9 +223,6 @@
         position: absolute;
         top: 55vh;
         left: 10vw;
-        /*position: relative;
-        top: -50vh;
-        left: 10vw;*/
         font-size: 3vw;
         font-family: ubuntu, sans-serif;
         font-weight: bold;
@@ -266,16 +247,13 @@
     
   }
   
-  /* Desktop (1024px) */
-  @media only screen and (min-device-width: 1024px) and (max-device-width: 1460px){
-    /* Responsive styles for this breakpoint */
+  /* Desktop (1024px) 
+  @media (min-device-width: 1024px) and (max-device-width: 1460px){
+    /* Responsive styles for this breakpoint 
     #mainLogo {
         position: absolute;
         top: 20vh;
         left: 10vw;
-        /*position: relative;
-        top: -77vh;
-        left: 13vh;*/
         width: 50vw;
     }
     
@@ -283,9 +261,6 @@
         position: absolute;
         top: 55vh;
         left: 10vw;
-        /*position: relative;
-        top: -50vh;
-        left: 10vw;*/
         font-size: 3vw;
         font-family: ubuntu, sans-serif;
         font-weight: bold;

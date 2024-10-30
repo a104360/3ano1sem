@@ -27,8 +27,7 @@ a{
     margin-right: 2vw;
     position: relative;
     left: 70vw;
-    top: 3vh;
-    position: fixed;
+    top: -3vh;
 }
 
 #topNavBar-links a {
@@ -38,9 +37,14 @@ a{
     font-weight: 15vw;
 }
 
+/*
+/* Portrait smartphone (320px) 
+@media (max-width: 320px){
+    #topNavBar{
+        max-width: 100%;
+        
+    }
 
-/* Portrait smartphone (320px) */
-@media only screen and (max-device-width: 320px){
     #topNavBar-logo {
         height: 7vh;
     }
@@ -48,11 +52,16 @@ a{
     #topNavBar-links {
         font-size: 7vw;
         left: 105vw;
-        top: 4vh;
+        top: -3vh;
     }
   }
 
-@media only screen and (min-device-width: 321px) and (max-device-width: 479px){
+@media (min-width: 321px) and (max-width: 479px){
+    #topNavBar{
+        max-width: 100%;
+        
+    }
+
     #topNavBar-logo {
         height: 7vh;
     }
@@ -60,15 +69,18 @@ a{
     #topNavBar-links {
         font-size: 5vw;
         left: 95vw;
-        top: 4vh;
+        top: -3vh;
     }
   }
 
 
   
-  /* Landscape smartphone (480px) */
-  @media only screen and (min-device-width: 480px) and (max-device-width: 768px){
-      
+  /* Landscape smartphone (480px) 
+  @media (min-width: 480px) and (max-width: 768px){
+    #topNavBar{
+        max-width: 100%;
+    }
+    
     #topNavBar-logo {
         height: 7vh;
     }
@@ -76,14 +88,17 @@ a{
     #topNavBar-links {
         font-size: 3vw;
         left: 85vw;
-        top: 4vh;
+        top: -3vh;
     }
     
   }
   
-  /* Portrait tablet (760px) */
-  @media only screen and (min-device-width: 760px) and (max-device-width:1023px){
-      
+  /* Portrait tablet (760px) 
+  @media (min-width: 760px) and (max-width:1023px){
+      #topNavBar{
+        max-width: 100%;
+
+      }
       #topNavBar-logo {
           height: 6vh;
       }
@@ -91,14 +106,18 @@ a{
       #topNavBar-links {
           font-size: 1.8vw;
           left: 68vw;
-          top: 4vh;
+          top: -3vh;
       }
     
   }
   
-  /* Desktop (1024px) */
-  @media only screen and (min-device-width: 1024px) and (max-device-width: 1460px){ 
-    
+  /* Desktop (1024px) 
+  @media (min-width: 1024px) and (max-width: 1460px){ 
+    #topNavBar{
+        max-width: 100%;
+        
+    }
+
     #topNavBar-logo {
         height: 4vw;
     }
@@ -106,6 +125,6 @@ a{
     #topNavBar-links {
         font-size: 1.6vw;
         left: 68vw;
-        top: 4vh;
+        top: -3vh;
     }
-  }
+  }*/

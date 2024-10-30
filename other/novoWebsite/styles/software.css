@@ -34,7 +34,7 @@ html{
 
 .imageDiv{
     height: 56vh;
-    width: 46vw;
+    width: 75vw;
     background-color: black;
     position: relative;
     top: 16vh;
@@ -71,4 +71,117 @@ html{
 
 .spacer{
     height: 27vh;
+}
+
+
+
+.titles {
+    position: relative;
+    max-width: 80%;
+    padding-top: 5%;
+    padding-left: 20%;
+    color: #333333;
+    font-size: 60px;
+    font-weight: 500;
+    z-index: 1;
+}
+
+.brief {
+    font-size: 22px;
+    max-width: 50%;
+}
+
+
+#digitalTwinBrief-div {
+    height: 100%;
+    position: relative;
+    top: 9%;
+}
+
+#digitalTwinTitle {
+    position: relative;
+    padding: 0;
+    max-width: 20%;
+    left: 49%;
+    top: 20%;
+}
+
+
+#digitalTwinBrief {
+    position: relative;
+    display: flex;
+    top: 22%;
+    left: 51%;
+    max-width: 60%;
+    width: 44%;
+    font-size: 2vw;
+}
+
+#digitalTwinImage {
+    position: relative;
+    top: -37%;
+    left: 11%;
+    max-width: 35%;
+    border-radius: 20px;
+    background: linear-gradient(145deg, #329dc0, #2a84a1);
+    box-shadow: 27px 27px 53px #133b48;
+}
+
+
+#digitalTwinLine {
+    position: relative;
+    top: 0%;
+    left: 49%;
+    content: "";
+    width: 7px;
+    border-radius: 15%;
+    height: 22vh;
+    background-color: #333333;
+}
+
+#flowOfOperations-div {
+    position: relative;
+    top: -26%;
+    left: 0%;
+    max-width: 100%;
+    height: 17%;
+}
+
+#flowOfOperationsTitle {
+    padding: 0;
+    width: 30%;
+    left: 49%;
+    top: 0%;
+}
+
+#flowOfOperationsBrief {
+    position: relative;
+    display: flex;
+    top: 5%;
+    left: 51%;
+    max-width: 40%;
+    width: 50%;
+    height: 100%;
+    font-size: 2vw;
+}
+
+#flowOfOperationsImage {
+    position: relative;
+    max-height: 204%;
+    top: -126%;
+    left: 13%;
+    justify-content: space-evenly;
+    border-radius: 25px;
+    box-shadow: 27px 27px 53px #133b48;
+}
+
+#flowOfOperationsLine {
+    position: relative;
+    top: -302%;
+    left: 49%;
+    content: "";
+    width: 7px;
+    border-radius: 15%;
+    height: 12vw;
+    background-color: #333333;
 }

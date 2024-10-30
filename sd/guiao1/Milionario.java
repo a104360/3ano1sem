@@ -6,7 +6,6 @@ public class Milionario {
     private static Bank banco;
 
     private static class Deposita implements Runnable{
-        ReentrantLock l = new ReentrantLock();
         public void run() {
             int value = 100;
             for (int i = 0; i < 1000; i++){
