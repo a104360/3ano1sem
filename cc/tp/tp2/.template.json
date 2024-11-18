@@ -1,0 +1,30 @@
+{
+    "task_id":"task-202",
+    "frequency":20,
+    "devices":{
+        "device":"r1",
+        "device-metrics":{
+            "cpu_usage":0.2,
+            "ram_usage":0.2,
+            "interface_stats":[
+                "eth0",
+                "eth1",
+                "eth2"
+            ]
+        },
+        "link_metrics":{
+            "bandwith":{
+                "jitter":0.2,
+                "packet_loss":0.2,
+                "latency":2
+            },
+            "alertflow_conditions":{
+                "cpu_usage":0.8,
+                "ram_usage":0.9,
+                "interface_stats":2000,
+                "packet_loss":0.05,
+                "jitter":100
+            }
+        }
+    }
+}

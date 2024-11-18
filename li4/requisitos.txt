@@ -1,0 +1,98 @@
+Sistema de Gestão de Linha de Montagem e Armazém
+Funcionalidades do Funcionário da Fábrica
+f1. Encomendar do Armazém
+
+O funcionário da fábrica deve poder requisitar peças ou materiais do armazém diretamente pelo sistema.
+A encomenda deve incluir campos para quantidade, tipo de material, prioridade, data de necessidade e ID do projeto ou linha de montagem associada.
+O sistema deve permitir o acompanhamento do status da encomenda, desde a solicitação até a entrega na linha de montagem, exibindo as etapas: "Solicitado", "Em Preparação", "A Caminho" e "Entregue".
+O sistema deve enviar notificações ao funcionário e aos supervisores quando a encomenda estiver pronta para entrega, atrasada ou se algum item não estiver disponível.
+f2. Rececionar Stock
+
+O sistema deve emitir alertas com a quantidade recebida para verificação pelo funcionário, incluindo informações sobre o fornecedor e lote de origem.
+Após a receção, o sistema deve solicitar a confirmação das quantidades recebidas e identificar discrepâncias em relação ao pedido original.
+Em caso de discrepância entre a quantidade recebida e a encomendada, o sistema deve permitir o registro de uma ocorrência e gerar um relatório para análise de causa.
+O sistema deve registrar automaticamente a entrada de peças no inventário após a confirmação, associando o lote ao projeto ou linha de montagem que requisitou o material.
+f3. Corrigir Stock
+
+O funcionário deve poder corrigir as quantidades de stock, com opções para adicionar ou remover peças, registrar o motivo da alteração e indicar o responsável pela correção.
+O sistema deve registrar o operador que realizou a correção e o horário da alteração para rastreamento e auditoria.
+O sistema deve bloquear alterações em quantidades críticas (abaixo do mínimo necessário) e solicitar autorização de um supervisor em caso de tentativas de modificação.
+f4. Devolver à Fábrica
+
+O funcionário deve registrar devoluções ao estoque central ou outras partes da fábrica, especificando motivo, quantidade e localização de retorno.
+O sistema deve fornecer opções de devolução parcial ou total de lotes e associar devoluções a relatórios de falha ou excesso de estoque, quando aplicável.
+A devolução deve ser registrada com data, hora e identificador do lote devolvido para facilitar o controle e auditoria de inventário.
+f5. Aceder ao Inventário
+
+O funcionário deve consultar o inventário em tempo real e filtrar itens por categorias, localização, status (em estoque, reservado, em falta), ou prazo de validade.
+O sistema deve permitir acesso rápido a informações de quantidade, localização e validade dos materiais, e exibir alertas para itens com validade próxima do vencimento.
+O sistema deve emitir alertas automáticos para peças com baixa quantidade em tempo real, facilitando o planejamento e a reposição.
+f6. Aceder a Estatísticas
+
+O funcionário deve visualizar relatórios de consumo de materiais, produtividade e tempo médio de processamento por etapa, com dados detalhados para cada linha de montagem.
+As estatísticas devem incluir gráficos de tendências para análise de desempenho da linha de montagem e identificar padrões de consumo e gargalos.
+O sistema deve gerar estatísticas personalizáveis por período (diário, semanal, mensal) e permitir exportação para análise externa.
+f7. Confirmar Inventário
+
+O funcionário deve realizar uma contagem manual de inventário e confirmar no sistema os níveis de stock, especialmente para materiais críticos.
+O sistema deve registrar as contagens e gerar relatórios de discrepâncias em caso de diferença entre o inventário registrado e o confirmado.
+Deve haver uma funcionalidade para agendar confirmações de inventário de forma recorrente (semanal, mensal) e enviar lembretes automáticos.
+Funcionalidades do Funcionário do Armazém
+f1. Encomendar do Fornecedor
+
+O funcionário do armazém deve requisitar peças e materiais diretamente aos fornecedores, especificando quantidade, prazo de entrega, tipo de material e custo estimado.
+O sistema deve monitorar o status da encomenda até a receção e enviar notificações sobre o andamento, incluindo alertas de atraso ou falta de peças.
+O sistema deve permitir o registro de múltiplos fornecedores por peça, priorizando os que garantam melhor preço, qualidade e prazo.
+f2. Rececionar Stock
+
+Ao rececionar estoque dos fornecedores, o sistema deve exibir a quantidade encomendada, o lote esperado, e alertas para verificar a integridade e validade do material.
+O funcionário deve poder registrar qualquer discrepância e, se necessário, iniciar um processo de devolução para o fornecedor.
+O sistema deve solicitar a confirmação do estoque recebido para atualização automática do inventário e gerar um histórico de lote.
+f3. Corrigir Stock
+
+O funcionário deve ajustar o estoque conforme necessário, com opções para adicionar ou remover peças e registrar o motivo da correção.
+O sistema deve registrar todas as alterações e notificar o supervisor para aprovação caso o ajuste exceda uma quantidade predefinida ou afete o nível de stock crítico.
+f4. Devolver ao Fornecedor
+
+O funcionário deve registrar devoluções ao fornecedor, especificando motivo (defeito, excesso, validade), quantidades e informações de rastreamento do lote.
+O sistema deve gerar um comprovante de devolução e rastrear o status até a confirmação de receção pelo fornecedor, facilitando o controle de processos.
+f5. Aceder ao Inventário
+
+O funcionário deve consultar o inventário, incluindo a quantidade disponível por item, validade, e localização no armazém, com
+filtros para facilitar a navegação e busca de peças específicas.
+
+O sistema deve exibir informações detalhadas, como lote, data de entrada, e fornecedor, e alertar automaticamente sobre peças em baixa quantidade ou próximas do vencimento.
+Deve permitir visualizações personalizadas por tipo de material, facilitando o gerenciamento de peças críticas para a linha de produção.
+f6. Aceder a Estatísticas
+
+O sistema deve fornecer estatísticas de movimentação de estoque, tempo de permanência de itens no armazém e frequência de reposição, com gráficos que auxiliem na análise de eficiência.
+Deve haver relatórios personalizados para diferentes períodos (diário, semanal, mensal) e visualização de tendências, como variação de níveis de estoque ao longo do tempo.
+O funcionário deve conseguir exportar dados para uso em relatórios externos ou análises avançadas.
+f7. Confirmar Inventário
+
+O sistema deve permitir que o funcionário do armazém realize confirmações de inventário de modo regular, registrando o estado real das quantidades e comparando com o inventário registrado.
+A confirmação deve ser registrada no sistema, com possibilidade de anexar justificativas para discrepâncias e solicitar revisões pelo supervisor.
+Deve haver a opção de agendar confirmações de inventário em intervalos regulares (mensal, trimestral), gerando lembretes automáticos para o funcionário.
+f8. Transferir Stock entre Armazéns
+
+O sistema deve permitir a transferência de itens entre diferentes armazéns, com rastreamento completo da movimentação e documentação do lote transferido.
+O funcionário deve especificar origem, destino, quantidade e justificar a transferência (ex.: necessidade de reabastecimento ou reorganização).
+O sistema deve atualizar automaticamente os níveis de inventário nos armazéns envolvidos e gerar um histórico para auditoria.
+Funcionalidades do Cliente
+c1. Encomendar Produtos
+
+O cliente deve poder encomendar produtos diretamente pelo sistema, com visualização de itens disponíveis, quantidades, preços e prazos de entrega estimados.
+O sistema deve permitir que o cliente acompanhe o status da encomenda em tempo real (Ex.: "Processando", "Em Separação", "A Caminho", "Entregue").
+Deve haver uma funcionalidade para aplicar cupons de desconto ou promoções, bem como exibir o histórico de encomendas para fácil reordenação de produtos frequentes.
+O sistema deve enviar notificações automáticas para o cliente sobre o status da encomenda, incluindo atualizações em caso de atrasos.
+c2. Devolver Produtos
+
+O cliente deve poder iniciar devoluções diretamente no sistema, especificando o motivo da devolução (ex.: defeito, troca, desistência) e anexar fotos ou documentos comprovativos, se necessário.
+O sistema deve fornecer um código de devolução e informar o cliente sobre o status da devolução, incluindo etapas como "Aguardando Aprovação", "Produto Recebido" e "Reembolso Emitido".
+O sistema deve registrar o histórico de devoluções do cliente e permitir o rastreamento completo da solicitação até a resolução final.
+c3. Registar Conta
+
+O sistema deve permitir que o cliente crie uma conta, fornecendo informações básicas como nome, e-mail, endereço, e método de pagamento preferencial.
+Deve haver verificação de e-mail e senha forte para garantir segurança, e o cliente deve poder configurar autenticação multifatorial como medida adicional.
+A conta deve permitir acesso ao histórico de encomendas, status de pedidos ativos, dados de contato e preferências de comunicação, além de possibilitar a atualização dessas informações a qualquer momento.
+O sistema deve proteger todas as informações pessoais do cliente conforme regulamentações de privacidade, como GDPR, e exibir uma política de privacidade clara.

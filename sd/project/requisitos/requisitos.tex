@@ -1,0 +1,56 @@
+\documentclass{article}[12pt]
+\usepackage{enumitem}
+
+\title{\textbf{\Large{Requisitos funcionais de SD}}}
+
+\begin{document}
+	\maketitle
+	\pagebreak
+	\textbf{Autenticar e registar utilizador}
+	\begin{enumerate}
+		\item Registar utilizador 
+		\item Autenticar utilizador
+		\item A interação com o serviço implica\\
+			Estabelecer conexão\\
+			Autenticar o utilizador
+		
+	\end{enumerate}
+	
+	\textbf{Operações leitura/escrita simples}
+	\begin{enumerate}
+		\item \textbf{Escrita} - void put(String key, byte[] value);\\
+				Operações de escrita são baseadas numa função, chave-valor, onde a chave é o "ficheiro" para onde se vai escrever, e o valor é o texto que se vai escrever.\\
+				Caso não haja entrada (c.f. ficheiro não existe), é criada uma nova entrada no servidor.
+		\item \textbf{Leitura} - byte[] get(String key);\\
+				Operações de escrita são baseadas na função get que tem como argumento apenas a entrada do "ficheiro" que será lido.\\
+				Deve retornar null caso não exista a entrada.
+	\end{enumerate}
+	
+	\textbf{Operações de leitura/escrita composta}
+	\textbf{Escrita} - \texttt{void multiPut(Map<String, byte[]> pairs);}\\
+	\textbf{Leitura} - \texttt{Map<String,byte[]> multiGet(Set<String> keys);}\\
+	
+	
+	\textbf{Utilizadores concurrentes}
+	Deve ser configurado um máximo\\
+	Se for atingido, os utilizadores devem ser colocados numa fila de espera\\
+
+	
+	
+	\textbf{\Large{Funcionalidade Avançada}}
+	
+	\textbf{Clientes multiThread}\\
+	Clientes devem poder ter várias threads a responder aos seus pedidos
+
+	\textbf{Leitura condicional}\\
+	\textbf{byte[] getWhen(String key, String keyCond, byte[] valueCond);}\\
+	Deve devolver o valor de key, sse o valor de keyCond seja valueCond, deve bloquear a operação até acontecer.\\
+
+
+	\textbf{Programas a implementar}\\
+	\textbf{Servidor}\\
+	\textbf{Biblioteca do cliente}\\
+	\textbf{Interface}\\
+	
+
+\end{document}

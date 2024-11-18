@@ -23,7 +23,7 @@ public class Pokemon implements Manager {
         try{
             List<String> players = this.playersBuffer;
             players.add(name);
-            maxMinPlayers = Math.max(minPlayers, maxMinPlayers);
+            this.maxMinPlayers = Math.max(minPlayers, maxMinPlayers); // Deter
 
             if(this.maxMinPlayers == players.size()){
                 this.p.signalAll();
@@ -35,7 +35,7 @@ public class Pokemon implements Manager {
                 }
             }
             //if raids
-            return players;//new Charizard(players);
+            return new Charizard(players);//new Charizard(players);
 
         } catch (InterruptedException e){
             e.printStackTrace();
